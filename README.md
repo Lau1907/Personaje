@@ -11,11 +11,11 @@ Tapia Cid Laura Berenice
 El objetivo general de crear un personaje navideño como lo es el hombre con herramientas es utilizar los principios de IoT para mejorar la automatización, la eficiencia y la comodidad para hacer este personaje lo más apegado a la realidad. Esto implicará la integración de dispositivos y sensores inteligentes en el entorno especificado para poder controlar y gestionar diversas tareas y sistemas que se pretende que realice este personaje.
 
 ## Materiales Utilizados
-|EsP32|Microcontrolador con comunicación serial, wifi, bluetooth|Cantidad: 1|$140.00|
+|EsP32|Microcontrolador con comunicación serial, wifi, bluetooth|Cantidad: 2|$140.00|
 |Cables Dupont|Cables MM HH MH para conexión de prototipos|Cantidad: 50|$60.00|
-|Leds | Dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz | Cantidad: 3 | $3
+|Leds | Dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz | Cantidad: 6 | $3
 | Buzzer | Transductor capaz de convertir la energía eléctrica en sonido | Cantidad: 1 | $49
-| Servomotor | Actuador rotativo o lineal que permite lograr un control preciso en cuanto a posición angular, aceleración y velocidad del eje | Cantidad: 1 | $49
+| Motor DC | Actuador rotativo o lineal que permite lograr un control preciso en cuanto a posición angular, aceleración y velocidad del eje | Cantidad: 2 | $60
 | Breadboard | Permite quitar y reemplazar componentes fácilmente | Cantidad : 1 | $69
 
 
@@ -39,3 +39,6 @@ La arquitectura del proyecto se basa en el ESP32 como núcleo central. Este micr
 
 ## Base de datos
 Para el almacenamiento de datos, se puede integrar una base de datos en el proyecto si es necesario. Esto permitirá registrar información importante, como registros de uso de las herramientas, estadísticas y configuraciones. Puedes utilizar una base de datos compatible con el ESP32 y configurar la comunicación para almacenar y recuperar datos según sea necesario.
+
+## Codigos del funcionamiento
+

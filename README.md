@@ -39,6 +39,3 @@ La arquitectura del proyecto se basa en el ESP32 como núcleo central. Este micr
 
 ## Base de datos
 Para el almacenamiento de datos, se puede integrar una base de datos en el proyecto si es necesario. Esto permitirá registrar información importante, como registros de uso de las herramientas, estadísticas y configuraciones. Puedes utilizar una base de datos compatible con el ESP32 y configurar la comunicación para almacenar y recuperar datos según sea necesario.
-
-## Codigos del funcionamiento
-
